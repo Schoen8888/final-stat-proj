@@ -1,5 +1,7 @@
 # final-stat-proj
 
+# Hi! I am not super familiar with GitHub, so I have made this public and available for you to edit in order to view the code more clearly. Just read the READ.ME in orderr to see things more clearly!
+
 library(faraway)
 library(ggplot2)
 library(tidyverse)
